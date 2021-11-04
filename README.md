@@ -1,7 +1,7 @@
-# roblox-gui-helpful-links
+# Roblox GUI Helpful Links
 A collection of links and posts that I have found helpful while creating GUIs on Roblox
 
-Roblox Gui Images
+Roblox GUI Images
 - [Fixing Images in Roblox UI](https://medium.com/roblox-development/fixing-images-in-roblox-ui-to-look-good-2e0a7880b1ec)
 - [Pixelfix](https://devforum.roblox.com/t/pixelfix-remove-the-black-edges-on-scaled-images/201802)
 
