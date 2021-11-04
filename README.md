@@ -6,4 +6,4 @@ Roblox Gui Images
 - [Pixelfix](https://devforum.roblox.com/t/pixelfix-remove-the-black-edges-on-scaled-images/201802)
 
 9-Slice
-[Using SliceCenter](https://devforum.roblox.com/t/how-to-use-slicecenter-robloxs-9-slice-gui-property/18313)
+- [Using SliceCenter](https://devforum.roblox.com/t/how-to-use-slicecenter-robloxs-9-slice-gui-property/18313)
